@@ -13,7 +13,7 @@ public class JavaApplication2 {
 
     /**
      * @param args the command line arguments
-     */
+     */int h;
     public static void main(String[] args) {
         // TODO code application logic here
     }
